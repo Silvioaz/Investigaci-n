@@ -14,6 +14,11 @@
 ## Glaciares, impacto ambiental y fuente de recursos
 
 
+
+## Desafío de Estado: Protección de Glaciares
+Chile tiene más de 24 mil glaciares de norte a sur, en 15 regiones existe área glacial. 
+Tenemos el 80% de los glaciares de Sudamérica y el 11% de los glaciares del mundo, sin embargo, no existe hoy ninguna ley o recurso estatal que los proteja.
+
 ---
 *Referencias*
 
