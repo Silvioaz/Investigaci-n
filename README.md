@@ -1,7 +1,7 @@
 # Protección Glaciares en Chile: Ley, Constitución y Lobby
 ## ¿A que se enfrentan los glaciares en el sur de Chile y la Patagonia? 
 
-![glaciares](img/glaciars.jpg)
+![glaciares](https://github.com/Glaciares-en-peligro/Glaciares/blob/main/img/glaciar.jpg?raw=true)
 
 Índice temático
 - [ ] 1.Glaciares (que, beneficios, riesgos) > impacto medioambiental
