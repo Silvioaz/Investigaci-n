@@ -1,7 +1,7 @@
 ## Protección Glaciares en Chile: Ley, Constitución y Lobby
 # ¿A que se enfrentan los glaciares en Chile? 
 
-![glaciares] (img/glaciars.jpg)
+![glaciares](img/glaciars.jpg)
 
 Índice temático
 -[] Glaciares (que, beneficios, riesgos) > impacto medioambiental
