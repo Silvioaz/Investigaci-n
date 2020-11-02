@@ -4,10 +4,10 @@
 ![glaciares](https://www.terram.cl/wp-content/uploads/2020/07/blog-glaciar-2-1024x640.jpg)
 
 Índice temático
-- [ ] 1.Glaciares (que, beneficios, riesgos) > impacto medioambiental
-- [ ] 2.Ley de Protección & Tratados  
-- [ ] 3.Explotación y situación en el Congreso
-- [ ] 4.Que ocurre con la Constitución?
+- [ ] 1. Glaciares (que, beneficios, riesgos) > impacto medioambiental
+- [ ] 2. Explotación y situación en el Congreso  
+- [ ] 3. Ley de Protección & Tratados
+- [ ] 4. Que ocurre con la Constitución?
 
 ---
 
