@@ -73,6 +73,8 @@ El Proyecto Hidroeléctrico Alto Maipo, en manos de los extranjeros AES Gener, e
 Actualmente, contaminación aguas de stgo, un túnel desde maitenes a alfaltal ,rompimiento y contaminación rompimientos de glaciares, Túnel el volcán valle las las arenas, túnel el yeso debajo del glaciar Mesón alto.
 
 ### Acuerdo de Escazú
+En el marco de la aprobación de la formulación de una nueva Constitución, es importante discutir e incluir estos temas en el marco de reformas y medidas que promuevan el cuidado y la utilización responsable de nuestros recursos. A pesar que no es posible cambiar estríctamente en materia legal este tópico fuero del congreso, los acuerdos internacionales (los cuales se mantendrán en la modificación de la constitución) cumplen un rol importante como compromiso en la comunidad de países a favor del medioambiente. En el caso del Acuerdo de escazú permite poner en la misma mesa la participación de organizaciones ambientales y activistas en la mediación de estos proyectos que pueden amenazar los recursos, siendo una forma de presión política en el ámbito legal importante para la protección de los glaciares.
+
 *¿En qué consiste?* 
 > "El Acuerdo de Escazú se inició en la Conferencia de las Naciones Unidas sobre el Desarrollo Sostenible (Río+20) en 2012, con la suscripción de la Declaración sobre la aplicación del Principio 10 de la Declaración de Río sobre Medio Ambiente y Desarrollo en América Latina y el Caribe, el Acuerdo Regional sobre Acceso a la Información, la Participación Pública y el Acceso a la Justicia en Asuntos Ambientales en América Latina y el Caribe se adoptó en Escazú, Costa Rica el 4 de marzo de 2018, después de dos años de reuniones preparatorias (2012-2014) y nueve reuniones del Comité de Negociación establecido en 2014 que contaron con la significativa participación del público." [- *Escazú Ahora Chile*](https://www.glaciareschilenos.org/notas/acuerdo-de-escazu-y-su-implementacion-en-nuestro-pais/) 
 
@@ -82,6 +84,8 @@ Consta de 26 artículos, los cuales en síntesis vienen a garantizar la implemen
 - El acceso a la justicia en asuntos ambientales para sus habitantes.
 - La creación y el fortalecimiento de las capacidades y la cooperación, contribuyendo a la protección del derecho de cada persona, de las generaciones presentes y futuras, a vivir en un medio ambiente sano y al desarrollo sostenible.
 - Defensa de los derechos humanos de las y los defensores ambientales. Así mismo, cada Estado deberá tomar medidas tales como prevenir, investigar y sancionar ataques a los defensores de los derechos humanos ambientales en el ejercicio de los derechos contemplados en el Acuerdo. 
+
+Hoy, existen muchas organizaciones que ponen estos temas en la discusión pública y se encargan de hacer contrapeso al defender el medioambiente y sus comunidades, tanto en terreno como en los medios, Medios tradicionales, Cabildos, Charlas y Redes Sociales. Y a pesar de que el Gobierno no ha firmado el acuerdo, que el mismo impulsó en el marco de la COP25, plantea lineamientos importantes para tomar medidas concretas desde la ciudadanía. 
 
 ---
 *Referencias*
