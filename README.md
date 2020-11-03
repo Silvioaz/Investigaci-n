@@ -10,9 +10,12 @@
 - [ ] 4. Discución Constitución?
 
 ---
+## Equipo humano:
+Francisco Alvarez: Redacción.
+Rosario Olivares: Diseño web.
+Silvio Arribas: Diseño gráfico.
 
 ## Glaciares: relevancia e impacto ambiental 
-(Francisco Alvarez)
 
 ## Desafío de Estado: Protección de Glaciares
 Chile tiene más de 24 mil glaciares de norte a sur, en 15 regiones existe área glacial. 
