@@ -23,6 +23,8 @@ Durante las estaciones cálidas, algunos liberan agua de deshielo debido a su de
 Los glaciares son uno de los principales patrimonios ambientales de nuestro país. Tienen un rol clave en el abastecimiento de agua y son una de las reservas estratégicas fundamentales de este recurso natural en estado sólido.
 Además, diversos estudios confirman que en épocas de sequía los glaciares llegan a suministrar __hasta el 70% del caudal de los ríos en la zona norte y centro de Chile.__ Por este motivo, los glaciares son una de las claves para disminuir los impactos del cambio climático y mantener la temperatura. [*GreenPeace*](https://www.greenpeace.org/chile/involucrate/glaciares/) 
 
+Dentro de ese contexto, los glaciares se insertan dentro de uno de los desafíos y conflictos medioambientales. En la reciente discusión del Acuerdo del Escazú el Instituto Nacional de Derechos Humanos, a la fecha de agosto de este año se promueven 117 conflictos de carácter socioambiental, de los cuales un 28% son relacionados a la minería y un 38% a la generación energética, donde se inscribe la protección de este importante recurso natural. 
+
 ## Desafío Legislativo: Protección de Glaciares
 Chile tiene más de 24 mil glaciares de norte a sur, en 15 regiones existe área glacial. 
 Tenemos el 80% de los glaciares de Sudamérica y el 11% de los glaciares del mundo, sin embargo, __no existe hoy ninguna ley o recurso estatal que los proteja.__
