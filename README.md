@@ -10,10 +10,10 @@
 - [ ] 4. Discución Constitución?
 
 ---
-## Equipo humano:
-Francisco Alvarez: Redacción.
-Rosario Olivares: Diseño web.
-Silvio Arribas: Diseño gráfico.
+## Equipo humano
+# Francisco Alvarez: Redacción.
+# Rosario Olivares: Diseño web.
+# Silvio Arribas: Diseño gráfico.
 
 ## Glaciares: relevancia e impacto ambiental 
 
