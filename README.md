@@ -16,7 +16,12 @@
 
 ---
 ## Glaciares: relevancia e impacto ambiental 
-(Francisco Alvarez)
+Un glaciar es una gran masa de hielo comprimida, que se forma durante el transcurso de miles de años como consecuencia de la nieve que permanece en un mismo lugar hasta que se transforma en hielo. 
+Normalmente, los glaciares aparecen en las zonas de alta montaña y en las regiones polares. Los glaciares de alta montaña reciben el nombre de glaciares alpinos y los de los polos se conocen como inlandsis o casquetes glaciares.
+Durante las estaciones cálidas, algunos liberan agua de deshielo debido a su derretimiento y crean cuerpos de agua importantes para la fauna y la flora, sin dejar de lado su utilidad para los seres humanos. Son la mayor reserva de agua dulce del planeta, conteniendo hasta tres cuartas partes de ésta. [- *Geornciclopedia*](https://www.geoenciclopedia.com/glaciares/)
+
+Los glaciares son uno de los principales patrimonios ambientales de nuestro país. Tienen un rol clave en el abastecimiento de agua y son una de las reservas estratégicas fundamentales de este recurso natural en estado sólido.
+Además, diversos estudios confirman que en épocas de sequía los glaciares llegan a suministrar hasta el 70% del caudal de los ríos en la zona norte y centro de Chile. Por este motivo, los glaciares son una de las claves para disminuir los impactos del cambio climático y mantener la temperatura. [- *GreenPeace*](https://www.greenpeace.org/chile/involucrate/glaciares/) 
 
 ## Desafío Legislativo: Protección de Glaciares
 Chile tiene más de 24 mil glaciares de norte a sur, en 15 regiones existe área glacial. 
