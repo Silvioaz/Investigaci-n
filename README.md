@@ -1,4 +1,4 @@
-# Protección Glaciares en Chile: Ley, Constitución y Lobby
+# Protección Glaciares en Chile: Ley, Lobby y Constitución
 ## ¿A que se enfrentan los glaciares en el sur de Chile y la Patagonia? 
 
 ![glaciares](https://www.terram.cl/wp-content/uploads/2020/07/blog-glaciar-2-1024x640.jpg)
@@ -10,15 +10,15 @@
 
 Índice temático
 - [ ] 1. Glaciares (que, beneficios, riesgos) e impacto medioambiental
-- [ ] 2. Ley de Protección & Tratados 
+- [ ] 2. Ley de Protección & Constitución 
 - [ ] 3. Explotación por empresa privadas
-- [ ] 4. Discución Constitución?
+- [ ] 4. Discución Constituciónal y Activismo
 
 ---
 ## Glaciares: relevancia e impacto ambiental 
 (Francisco Alvarez)
 
-## Desafío de Estado: Protección de Glaciares
+## Desafío Legislativo: Protección de Glaciares
 Chile tiene más de 24 mil glaciares de norte a sur, en 15 regiones existe área glacial. 
 Tenemos el 80% de los glaciares de Sudamérica y el 11% de los glaciares del mundo, sin embargo, __no existe hoy ninguna ley o recurso estatal que los proteja.__
 (Línea de tiempo)
