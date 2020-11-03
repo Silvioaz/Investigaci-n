@@ -5,13 +5,13 @@
 
 Índice temático
 - [ ] 1. Glaciares (que, beneficios, riesgos) e impacto medioambiental
-- [ ] 2. Explotación y situación en el Congreso  
-- [ ] 3. Ley de Protección & Tratados
-- [ ] 4. Que ocurre con la Constitución?
+- [ ] 2. Ley de Protección & Tratados 
+- [ ] 3. Explotación por empresa privadas
+- [ ] 4. Discución Constitución?
 
 ---
 
-## Glaciares, impacto ambiental y fuente de recursos
+## Glaciares: relevancia e impacto ambiental 
 
 ### ¿Quienes explotan los Glaciares?
 
