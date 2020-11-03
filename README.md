@@ -29,7 +29,9 @@ Dentro de ese contexto, los glaciares se insertan dentro de uno de los desafíos
 Chile tiene más de 24 mil glaciares de norte a sur, en 15 regiones existe área glacial. 
 Tenemos el 80% de los glaciares de Sudamérica y el 11% de los glaciares del mundo, sin embargo, __no existe hoy ninguna ley o recurso estatal que los proteja.__
 
-Desde el 2006, el Congreso ha presentado 7 propuestas de ley de protección de los glaciares, pero el Consejo Minero y la Sociedad Nacional de Minería, a través de los gobiernos, las ha bloqueado. [*Chile Sustentable*](http://www.chilesustentable.net/wp-content/uploads/2020/06/infografi%CC%81a-Glaciares_V5-FINAL.pdf) 
+Desde el 2006, el Congreso ha presentado 7 propuestas de ley de protección de los glaciares, pero el Consejo Minero y la Sociedad Nacional de Minería, a través de los gobiernos, las ha bloqueado. [*Chile Sustentable*](http://www.chilesustentable.net/wp-content/uploads/2020/06/infografi%CC%81a-Glaciares_V5-FINAL.pdf)
+
+El 2019 se postuló la última propuesta de ley de protección de glaciares la cual aún sigue en el congreso y que tiene como principal argumento la sequía que se generara en 20 años ya que hay zonas en que los glaciares aportan hasta con el 70% de la recarga de los caudales de los rios.
 
 *Cronología de Proyectos de Ley*
 
@@ -44,8 +46,7 @@ __2019__
   * 13 de septiembre: el gobierno formula una indicación sustitutiva que reemplaza íntegramente el texto del proyecto original. 
 
 __2020__
-El proyecto de ley de protección a los glaciares, en su sexto intento, se encuentra en la Cámara de Origen del Senado, en su primer trámite constitucional, sería votado 7 de octubre de 2020, pero ha sido suspendido por la Comisión de Minería y Energía, sin una razón aparente
-> "La suspension de la discusión sobre este proyecto de ley, significa postergar un nuevo episodio en esta larga y engorrosa tramitación, que ha sido marcada por el fuerte lobby ejercido por el sector minero, por los constantes enfrentamientos entre el sector parlamentario y el poder ejecutivo, y por la creciente necesidad de nuestro país de establecer una regulación y consecuencial protección a todos los glaciares existentes en nuestro territorio, no solo por su valor económico (fuente de agua dulce), sino también por su valor como cuerpos integrantes de la criósfera y que poseen un papel fundamental en el equilibrio de los ecosistemas existentes en todas sus dimensiones." [*Fundación Glaciares de Chile*](https://www.glaciareschilenos.org/ley-glaciar/cronologia-de-la-ley-de-proteccion-a-los-glaciares-en-chile/) 
+> "El proyecto de ley de protección a los glaciares, en su sexto intento, se encuentra en la Cámara de Origen del Senado, en su primer trámite constitucional, sería votado 7 de octubre de 2020, pero ha sido suspendido por la Comisión de Minería y Energía, sin una razón aparente. Lo anterior, significa postergar un nuevo episodio en esta larga y engorrosa tramitación, que ha sido marcada por el fuerte lobby ejercido por el sector minero, por los constantes enfrentamientos entre el sector parlamentario y el poder ejecutivo, y por la creciente necesidad de nuestro país de establecer una regulación y consecuencial protección a todos los glaciares existentes en nuestro territorio, no solo por su valor económico (fuente de agua dulce), sino también por su valor como cuerpos integrantes de la criósfera y que poseen un papel fundamental en el equilibrio de los ecosistemas existentes en todas sus dimensiones." [Fundación Glaciares de Chile](https://www.glaciareschilenos.org/ley-glaciar/cronologia-de-la-ley-de-proteccion-a-los-glaciares-en-chile/) 
 
 Finalmente este primero de noviembre, hubo un fuerte intercambio de posiciones, entre partidarios de oposición de la comisión de Minería y Energía del Senado y el Ministro Baldo Prokurica, lo que alejó la posibilidad de un acuerdo en torno al proyecto de protección de glaciares que preocupa a la industria de la minería y al Ejecutivo. El proyecto original de iniciativa parlamentaria -Boletín N°11.876-12 que se tramita desde julio de 2018- apunta en síntesis a proteger los glaciares el ambiente periglaciar y permafrost-suelo congelado-, para conservarlos como reservas estratégicas de recursos hídricos. 
 
@@ -74,8 +75,6 @@ El Proyecto Hidroeléctrico Alto Maipo, en manos de los extranjeros AES Gener, e
 Actualmente, contaminación aguas de stgo, un túnel desde maitenes a alfaltal ,rompimiento y contaminación rompimientos de glaciares, Túnel el volcán valle las las arenas, túnel el yeso debajo del glaciar Mesón alto.
 
 ### Acuerdo de Escazú
-En el marco de la aprobación de la formulación de una nueva Constitución, es importante discutir e incluir estos temas en el marco de reformas y medidas que promuevan el cuidado y la utilización responsable de nuestros recursos. A pesar que no es posible cambiar estríctamente en materia legal este tópico fuero del congreso, los acuerdos internacionales (los cuales se mantendrán en la modificación de la constitución) cumplen un rol importante como compromiso en la comunidad de países a favor del medioambiente. En el caso del Acuerdo de escazú permite poner en la misma mesa la participación de organizaciones ambientales y activistas en la mediación de estos proyectos que pueden amenazar los recursos, siendo una forma de presión política en el ámbito legal importante para la protección de los glaciares.
-
 *¿En qué consiste?* 
 > "El Acuerdo de Escazú se inició en la Conferencia de las Naciones Unidas sobre el Desarrollo Sostenible (Río+20) en 2012, con la suscripción de la Declaración sobre la aplicación del Principio 10 de la Declaración de Río sobre Medio Ambiente y Desarrollo en América Latina y el Caribe, el Acuerdo Regional sobre Acceso a la Información, la Participación Pública y el Acceso a la Justicia en Asuntos Ambientales en América Latina y el Caribe se adoptó en Escazú, Costa Rica el 4 de marzo de 2018, después de dos años de reuniones preparatorias (2012-2014) y nueve reuniones del Comité de Negociación establecido en 2014 que contaron con la significativa participación del público." [- *Escazú Ahora Chile*](https://www.glaciareschilenos.org/notas/acuerdo-de-escazu-y-su-implementacion-en-nuestro-pais/) 
 
@@ -85,8 +84,6 @@ Consta de 26 artículos, los cuales en síntesis vienen a garantizar la implemen
 - El acceso a la justicia en asuntos ambientales para sus habitantes.
 - La creación y el fortalecimiento de las capacidades y la cooperación, contribuyendo a la protección del derecho de cada persona, de las generaciones presentes y futuras, a vivir en un medio ambiente sano y al desarrollo sostenible.
 - Defensa de los derechos humanos de las y los defensores ambientales. Así mismo, cada Estado deberá tomar medidas tales como prevenir, investigar y sancionar ataques a los defensores de los derechos humanos ambientales en el ejercicio de los derechos contemplados en el Acuerdo. 
-
-Hoy, existen muchas organizaciones que ponen estos temas en la discusión pública y se encargan de hacer contrapeso al defender el medioambiente y sus comunidades, tanto en terreno como en los medios, Medios tradicionales, Cabildos, Charlas y Redes Sociales. Y a pesar de que el Gobierno no ha firmado el acuerdo, que el mismo impulsó en el marco de la COP25, plantea lineamientos importantes para tomar medidas concretas desde la ciudadanía. 
 
 ---
 *Referencias*
