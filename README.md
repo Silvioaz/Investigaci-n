@@ -31,14 +31,31 @@ Tenemos el 80% de los glaciares de Sudamérica y el 11% de los glaciares del mun
 
 Desde el 2006, el Congreso ha presentado 7 propuestas de ley de protección de los glaciares, pero el Consejo Minero y la Sociedad Nacional de Minería, a través de los gobiernos, las ha bloqueado. [*Chile Sustentable*](http://www.chilesustentable.net/wp-content/uploads/2020/06/infografi%CC%81a-Glaciares_V5-FINAL.pdf) 
 
-(Línea de tiempo)
+*Cronología de Proyectos de Ley*
+
+Desde el año 2005, los gobiernos han puesto en discusión en el congreso la administración y posterior protección de los glaciares. Una temática fuertemente vinculado a la regulación en torno al agua en Chile, donde del total de agua existente en el planeta, el 97% corresponde a agua salada y solo el 3% a agua dulce; pero solo el 1% de ella está disponible para los ecosistemas, el consumo humano y animal. El 2% restante está congelado en los glaciares y en los Polos, lo que urge  fortalecer en materia legal este recurso. 
+
+Dentro de los vaivenes políticos a lo largo de los años (que vale la pena recorrer), es interesante mirar la discusión que se ha llevado a cabo los últimos años. El 2018, el Presidente Sebastián Piñera elimina la Unidad de Glaciología y Nieves de la DGA, para crear el Registro Nacional de Glaciares e identificar potenciales efectos de actividad humana en los glaciares. 
+
+__2019__
+  * 12 de marzo: se aprueba en la Comisión de Medioambiente y Bienes Nacionales del senado, presidida por Guido Girardi, la idea de legislar un nuevo proyecto de ley de protección de los glaciares y una reforma constitucional que otorgue protección de plantas y animales. El proyecto retoma la idea original de proteger todos los tipos de glaciares, incluyendo glaciares de roca y permafrost.
+  * 04 de junio: se aprueba en general el quinto proyecto, remitiéndose a la Comisión de Minería y Energía para que se pronuncie respecto del proyecto.
+  * 19 de junio: nuevamente es desarchivado el proyecto de Horvath, además de ser refundido por el Boletín N° 11.876-12 (último proyecto de ley sobre la materia, actualmente en discusión en el senado)
+  * 13 de septiembre: el gobierno formula una indicación sustitutiva que reemplaza íntegramente el texto del proyecto original. 
+
+__2020__
+> "El proyecto de ley de protección a los glaciares, en su sexto intento, se encuentra en la Cámara de Origen del Senado, en su primer trámite constitucional, sería votado 7 de octubre de 2020, pero ha sido suspendido por la Comisión de Minería y Energía, sin una razón aparente. Lo anterior, significa postergar un nuevo episodio en esta larga y engorrosa tramitación, que ha sido marcada por el fuerte lobby ejercido por el sector minero, por los constantes enfrentamientos entre el sector parlamentario y el poder ejecutivo, y por la creciente necesidad de nuestro país de establecer una regulación y consecuencial protección a todos los glaciares existentes en nuestro territorio, no solo por su valor económico (fuente de agua dulce), sino también por su valor como cuerpos integrantes de la criósfera y que poseen un papel fundamental en el equilibrio de los ecosistemas existentes en todas sus dimensiones." [Fundación Glaciares de Chile](https://www.glaciareschilenos.org/ley-glaciar/cronologia-de-la-ley-de-proteccion-a-los-glaciares-en-chile/) 
+
+Finalmente este primero de noviembre, hubo un fuerte intercambio de posiciones, entre partidarios de oposición de la comisión de Minería y Energía del Senado y el Ministro Baldo Prokurica, lo que alejó la posibilidad de un acuerdo en torno al proyecto de protección de glaciares que preocupa a la industria de la minería y al Ejecutivo. El proyecto original de iniciativa parlamentaria -Boletín N°11.876-12 que se tramita desde julio de 2018- apunta en síntesis a proteger los glaciares el ambiente periglaciar y permafrost-suelo congelado-, para conservarlos como reservas estratégicas de recursos hídricos. 
+
+Tras esa presentación surgió la pugna que aceleró la  votación de la iniciativa para la próxima semana. Esto fue solicitado por Girardi tras expresar su molestia por los argumentos señalados por el ministro de Minería. Este intercambio se retomaría así la semana siguiente.
 
 ### ¿Quienes explotan los Glaciares?
 Existen vigentes y en auge varios proyectos privados que afectan en diferentes medidas los glaciares, sus recursos y sus comunidades en el margen de la ambiguedad o vacío de la ley y de las reformas que se han hechos con los años. Dentro de los más conocidos hay 3 Grandes Empresas que han generado el mayor impacto:
 
 __1. Barrick Gold: Pascual Lama__
 Es uno de los casos más conocidos en Chile, el famoso Pascua Lama, enfocado principalmente en la  explotación minera de oro.
-  *  La explotación entre los años 1981 y 2000 destruyó de forma irreversible el 62% del glaciar Toro y el 71% del Glaciar Toro 2.
+  * La explotación entre los años 1981 y 2000 destruyó de forma irreversible el 62% del glaciar Toro y el 71% del Glaciar Toro 2.
   * El Glaciar Esperanza de la misma zona de Atacama. Aquí la construcción de caminos, el transporte de vehículos y maquinarias y el desecho de material particulado destruyó un 22% del glaciar.
   * El año 2005 se aprobó un estudio que empresa extraer oro mediante minería subterrá y depositar todo el material sobre el glaciar más grande de toda la zona.
   
@@ -72,6 +89,8 @@ Consta de 26 artículos, los cuales en síntesis vienen a garantizar la implemen
 [Fundación Glaciares Chilenos](https://www.glaciareschilenos.org)
 
 [Historia cronológica de los proyectos de ley de glaciares](https://www.glaciareschilenos.org/ley-glaciar/cronologia-de-la-ley-de-proteccion-a-los-glaciares-en-chile/)
+
+[Quiebre entre senadores de oposición y Gobierno acelera trámite de proyecto de glaciares](https://www.derechoalagua.cl/2020/11/02/quiebre-entre-senadores-de-oposicion-y-gobierno-acelera-tramite-de-proyecto-de-glaciares/)
 
 [Glaciares: ¿cómo se están protegiendo en Chile y el mundo?](https://www.terram.cl/2020/07/glaciares-como-se-estan-protegiendo-en-chile-y-el-mundo/)
 
