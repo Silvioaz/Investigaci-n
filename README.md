@@ -3,6 +3,11 @@
 
 ![glaciares](https://www.terram.cl/wp-content/uploads/2020/07/blog-glaciar-2-1024x640.jpg)
 
+## Equipo humano
+- Francisco Alvarez: Redacción.
+- Rosario Olivares: Diseño web.
+- Silvio Arribas: Diseño gráfico.
+
 Índice temático
 - [ ] 1. Glaciares (que, beneficios, riesgos) e impacto medioambiental
 - [ ] 2. Ley de Protección & Tratados 
@@ -10,11 +15,6 @@
 - [ ] 4. Discución Constitución?
 
 ---
-## Equipo humano
-- Francisco Alvarez: Redacción.
-- Rosario Olivares: Diseño web.
-- Silvio Arribas: Diseño gráfico.
-
 ## Glaciares: relevancia e impacto ambiental 
 
 ## Desafío de Estado: Protección de Glaciares
