@@ -34,7 +34,26 @@ Desde el 2006, el Congreso ha presentado 7 propuestas de ley de protección de l
 (Línea de tiempo)
 
 ### ¿Quienes explotan los Glaciares?
-(Rosario Olivares)
+Existen vigentes y en auge varios proyectos privados que afectan en diferentes medidas los glaciares, sus recursos y sus comunidades en el margen de la ambiguedad o vacío de la ley y de las reformas que se han hechos con los años. Dentro de los más conocidos hay 3 Grandes Empresas que han generado el mayor impacto:
+
+__1. Barrick Gold: Pascual Lama__
+Es uno de los casos más conocidos en Chile, el famoso Pascua Lama, enfocado principalmente en la  explotación minera de oro.
+  *  La explotación entre los años 1981 y 2000 destruyó de forma irreversible el 62% del glaciar Toro y el 71% del Glaciar Toro 2.
+  * El Glaciar Esperanza de la misma zona de Atacama. Aquí la construcción de caminos, el transporte de vehículos y maquinarias y el desecho de material particulado destruyó un 22% del glaciar.
+  * El año 2005 se aprobó un estudio que empresa extraer oro mediante minería subterrá y depositar todo el material sobre el glaciar más grande de toda la zona.
+  
+__2. Anglo American: Mina Los Bronces__
+La mina los Bronces está ubicada entre la región Metropolitana y la región de Valparaíso a 3550 msnm aproximadamente. Extraen cobre y molibdeno que se explota a rajo abierto. El mineral es transportado a 56 kilómetros a la planta de flotación Las Tórtolas. Este último es un embalse de relave de la minera Los Bronces, localizado en la comuna de Colina, Provincia de Chacabuco, Región Metropolitana de Santiago
+
+Esta empresa desde su aprobación el año 2002 se explota la Mina Los Bronces, y es uno de los casos donde el proyecto a enfrentado menos resquicios legales, sin tener hasta hoy que responder por el impacto ambiental en la zona.
+  * Entre 1988 y 2005, AA destruyó, en las cuencas altas del río San Francisco y Olivares (afluentes de los ríos Mapocho y Maipo), más de un 1k cuadrado de glaciares, provocando así una pérdida de entre 6 y 9 millones de metros cúbicos de reserva de agua dulce que estaban almacenadas en esos glaciares.
+  * De los 1,9 kilómetros cuadrados de glaciares que hay en el área de Los Bronces), se ha calculado que 0.2 km2 fueron destruidos en 1997. Esta destrucción se produjo principalmente por la construcción de caminos.
+  * Finalmente el más grave, en 2011, un túnel subterraneo de 9 kilómetros de largo y 5 metros de diámetro que pasaba justo por el glaciar Olivares, causando su contaminación y un aceleramiento del derretimiento. 
+  
+__3.Aes Gener, Proyecto Alto Maipo__
+El Proyecto Hidroeléctrico Alto Maipo, en manos de los extranjeros AES Gener, es un juego que pone al Cajón del Maipo expuesto a la desertificación, acelera el proceso de derretimiento de los glaciares, y por consecuencia resulta en el agotamiento de los recursos hídricos que abastecen más de seis millones de vidas y 120 mil hectáreas de regadío. Altera 32 hectáreas de bosque nativo. 
+
+Actualmente, contaminación aguas de stgo, un túnel desde maitenes a alfaltal ,rompimiento y contaminación rompimientos de glaciares, Túnel el volcán valle las las arenas, túnel el yeso debajo del glaciar Mesón alto.
 
 ### Acuerdo de Escazú
 *¿En qué consiste?* 
