@@ -16,18 +16,19 @@
 
 ---
 ## Glaciares: relevancia e impacto ambiental 
-Un glaciar es una gran masa de hielo comprimida, que se forma durante el transcurso de miles de años como consecuencia de la nieve que permanece en un mismo lugar hasta que se transforma en hielo. 
+Un glaciar es una gran masa de hielo comprimida, que __se forma durante el transcurso de miles de años como consecuencia de la nieve que permanece en un mismo lugar hasta que se transforma en hielo.__ 
 Normalmente, los glaciares aparecen en las zonas de alta montaña y en las regiones polares. Los glaciares de alta montaña reciben el nombre de glaciares alpinos y los de los polos se conocen como inlandsis o casquetes glaciares.
 Durante las estaciones cálidas, algunos liberan agua de deshielo debido a su derretimiento y crean cuerpos de agua importantes para la fauna y la flora, sin dejar de lado su utilidad para los seres humanos. Son la mayor reserva de agua dulce del planeta, conteniendo hasta tres cuartas partes de ésta. [*Geornciclopedia*](https://www.geoenciclopedia.com/glaciares/)
 
 Los glaciares son uno de los principales patrimonios ambientales de nuestro país. Tienen un rol clave en el abastecimiento de agua y son una de las reservas estratégicas fundamentales de este recurso natural en estado sólido.
-Además, diversos estudios confirman que en épocas de sequía los glaciares llegan a suministrar hasta el 70% del caudal de los ríos en la zona norte y centro de Chile. Por este motivo, los glaciares son una de las claves para disminuir los impactos del cambio climático y mantener la temperatura. [*GreenPeace*](https://www.greenpeace.org/chile/involucrate/glaciares/) 
+Además, diversos estudios confirman que en épocas de sequía los glaciares llegan a suministrar __hasta el 70% del caudal de los ríos en la zona norte y centro de Chile.__ Por este motivo, los glaciares son una de las claves para disminuir los impactos del cambio climático y mantener la temperatura. [*GreenPeace*](https://www.greenpeace.org/chile/involucrate/glaciares/) 
 
 ## Desafío Legislativo: Protección de Glaciares
 Chile tiene más de 24 mil glaciares de norte a sur, en 15 regiones existe área glacial. 
 Tenemos el 80% de los glaciares de Sudamérica y el 11% de los glaciares del mundo, sin embargo, __no existe hoy ninguna ley o recurso estatal que los proteja.__
 
 Desde el 2006, el Congreso ha presentado 7 propuestas de ley de protección de los glaciares, pero el Consejo Minero y la Sociedad Nacional de Minería, a través de los gobiernos, las ha bloqueado. [*Chile Sustentable*](http://www.chilesustentable.net/wp-content/uploads/2020/06/infografi%CC%81a-Glaciares_V5-FINAL.pdf) 
+
 (Línea de tiempo)
 
 ### ¿Quienes explotan los Glaciares?
